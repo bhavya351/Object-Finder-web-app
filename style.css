@@ -1,0 +1,49 @@
+body{
+    background-size: cover;
+}
+
+#number_of_objects_detected,#start{
+    font-size: 18px;
+
+}
+
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+}
+
+canvas{
+    border: 2px solid  white ;
+    border-radius:10 px;
+    box-shadow: 3px 3px 3px pink ;
+    margin-top: 130 px;
+}
+
+.subscript{
+    font-size: 17px;
+}
+
+.object_name{
+    font-size: medium;
+    font-style: italic;
+    color: aliceblue;
+}
+
+.empty_button{
+    width: 17px;
+    color: white;
+}
+
+canvas{
+    box-shadow: 7px 7px 7px pink;
+    border-radius: 10px;
+    background-color: white;
+}
+
+#input_id{
+    width: 20%;
+    border-radius: 10px;
+    margin: 5px;
+    border: 4px dotted pink; 
+}
